@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Hold failed upload metrics and upload with next upload metrics (#8513)
